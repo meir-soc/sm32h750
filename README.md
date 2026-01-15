@@ -19,11 +19,11 @@ based on the **STM32H750VB** microcontroller from STMicroelectronics.
 
 ## 📁 Repository Structure
 
-├── Core/ \# Application source code 
-├── Drivers/ \# HAL / CMSIS drivers
-├── Docs/ \# Project documentation and notes 
-├── Tools/ \# Helper scripts 
-└── README.md \# This file
+    ├── Core/            # Application source code
+    ├── Drivers/         # HAL / CMSIS drivers
+    ├── Docs/            # Project documentation and notes
+    ├── Tools/           # Helper scripts
+    └── README.md        # This file
 
 ## 🛠 Development Environment
 
@@ -48,7 +48,10 @@ All official documents should be downloaded directly from ST:
 
 1.  Clone the repository
 
-git clone `<repo-url>`{=html}
+```{=html}
+<!-- -->
+```
+    git clone <repo-url>
 
 2.  Open project in STM32CubeIDE\
 3.  Build and flash using ST-LINK
