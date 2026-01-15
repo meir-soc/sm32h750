@@ -5,11 +5,11 @@ based on the **STM32H750VB** microcontroller from STMicroelectronics.
 
 ## 🧠 MCU Overview
 
--   **Core:** Arm Cortex-M7\
--   **Max Frequency:** 480 MHz\
--   **Flash:** 128 KB (internal) + external memory support\
--   **RAM:** 1 MB\
--   **Package:** LQFP100\
+-   **Core:** Arm Cortex-M7
+-   **Max Frequency:** 480 MHz
+-   **Flash:** 128 KB (internal) + external memory support
+-   **RAM:** 1 MB
+-   **Package:** LQFP100
 -   **Peripherals:**
     -   Multiple UART / SPI / I2C / CAN / USB
     -   ADC / DAC
